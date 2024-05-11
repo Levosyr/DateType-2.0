@@ -1,0 +1,22 @@
+﻿----------------------------------------------
+|                dateType                     |
+----------------------------------------------
+| - month: int                                |
+| - day: int                                  |
+| - year: int                                 |
+----------------------------------------------
+| + dateType()                               |
+| + dateType(int, int, int)                  |
+| + setMonth(int)                             |
+| + setDay(int)                               |
+| + setYear(int)                              |
+| + getMonth(): int                           |
+| + getDay(): int                             |
+| + getYear(): int                            |
+| + isLeapYear(): bool                        |
+| + daysInMonth(int, int): int                |
+| + print()                                   |
+| + daysPassed(): int                         |
+| + daysRemaining(): int                      |
+| + setDateFromDays(int)                      |
+----------------------------------------------
